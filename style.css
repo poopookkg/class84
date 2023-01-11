@@ -1,0 +1,11 @@
+body{
+    background-image: url('mars.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+}
+canvas{
+    border: 10px darkblue ridge;
+}
